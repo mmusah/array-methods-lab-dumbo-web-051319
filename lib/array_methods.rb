@@ -10,14 +10,14 @@ def using_reverse(array)
   array.reverse
 end
 
-def using_first(array)
 
+def using_first(array)
+  array.first
 end
 
 def using_last(array)
-
+  array.last
 end
 
 def using_size(array)
-
-end
+  array.size
